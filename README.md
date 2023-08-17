@@ -1,3 +1,4 @@
-# rain_walking
+# c/c++ coding Template 
 
-Design and implement an efficient algorithm to determine a path to reach the destination through as few cells as possible, if such a path exists. In the case where they exist multiple paths crossing the same minimum number of cells, the program must choose one that contains as few rain-affected cells as possible.
+A template for programming in c and c++ using as VScode editor.
+Once you have created your repository you can edit the configuration file at will.
